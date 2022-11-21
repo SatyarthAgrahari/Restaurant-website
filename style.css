@@ -71,7 +71,7 @@ header #navbar ul a{
 #home::before{
     content: "";
     position: absolute;
-    background: url('../bg1.jpg') no-repeat center center/cover;
+    background: url('bg1.jpg') no-repeat center center/cover;
     height: 600px;
     top:0px;
     left:0px;
@@ -115,7 +115,7 @@ header #navbar ul a{
 #ourclients::before{
     content: "";
     position: absolute;
-    background: url('../bg.jpg') no-repeat center center/cover;
+    background: url('bg.jpg') no-repeat center center/cover;
     height: 200px;
     top:0px;
     left:0px;
